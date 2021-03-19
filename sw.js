@@ -2,8 +2,9 @@ const staticDevCoffee = "PWA workShop"
 const assets = [
   "/",
   "/index.html",
-  "/css/style.css",
+   "/css/bootsrap.min.css",
   "/js/app.js",
+  "/js/bootstrap.min.js",
   "/images/1.jpg",
   "/images/2.jpg",
   "/images/3.jpg",
